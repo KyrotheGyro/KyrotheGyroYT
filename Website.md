@@ -4,6 +4,25 @@ KyrotheGyro is a channel where I post music of many different types, from lofi m
 
 [**My Channel**](https://www.youtube.com/channel/UCaYCVyiqWzOggBd5s6eRptQ)
 
+<br>
+
+## Why did I decide to make a Youtube channel?
+
+I like making music and I wanted to share my creations with the internet.
+
+<br>
+
+## Tools and Programs I Use
+
+### Free/Open Source Programs <br>
+[LMMS](lmms.io): Open source music software similar to FL Studio. <br>
+[Spitfire LABS](labs.spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
+[Musescore](musescore.com): Open source scorewriter and online sheet music community. <br>
+### Midi Devices 
+[MIDIPLUS AKM320 Midi Keyboard](http://www.midiplus.com/html/akm320.html): Cheap midi keyboard with great funcionality. <br>
+[Novation Launchpad Mini](https://novationmusic.com/en/launch/launchpad-mini): Midi device that functions as a drum pad, keyboard, and many other things.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
