@@ -1,6 +1,6 @@
 # What is KyrotheGyro on Youtube?
 
-KyrotheGyro is a channel where I post music of many different types, from lofi music to full orchestral compositions.
+KyrotheGyro is a channel where I post music of many different types, from lofi music to full orchestral compositions. ![image](C:\Users\Kyro\Pictures\Saved Pictures\Youtube Logo.png)
 
 [**My Channel**](https://www.youtube.com/channel/UCaYCVyiqWzOggBd5s6eRptQ)
 
