@@ -1,4 +1,4 @@
-
+<img src="drive.google.com/uc?export=view&id=1EkH8jQtnlIYEFZUuO39lwvfXOW-s3aEU"> <br>
 # What is KyrotheGyro on Youtube?
 
 KyrotheGyro is a channel where I post music of many different types, from lofi music to full orchestral compositions. <br> <br>
@@ -9,14 +9,19 @@ KyrotheGyro is a channel where I post music of many different types, from lofi m
 
 ## Tools and Programs I Use
 
-### Free/Open Source Programs <br>
+### _Free/Open Source Programs_ <br>
 [LMMS](lmms.io): Open source music software similar to FL Studio. <br>
 [Spitfire LABS](labs.spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
 [Musescore](musescore.com): Open source scorewriter and online sheet music community. <br>
-### Midi Devices 
+### _Midi Devices_ 
 [MIDIPLUS AKM320 Midi Keyboard](http://www.midiplus.com/html/akm320.html): Cheap midi keyboard with great funcionality. <br>
 [Novation Launchpad Mini](https://novationmusic.com/en/launch/launchpad-mini): Midi device that functions as a drum pad, keyboard, and many other things.
 
+<br>
+
+### About Me
+
+My name is Kyro (pronounced kee-roh) and I am currently a sophomore in high school. I play euphonium, trombone, and piano. I like all things music: listening to it, playing it, and making it. My favorite sports are water polo, basketball, and swimming. 
 
 ### Markdown
 
