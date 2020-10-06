@@ -10,12 +10,12 @@ KyrotheGyro is a channel where I post music of many different types, from lofi m
 ## Tools and Programs I Use
 
 ### _Free/Open Source Programs_ <br>
-[LMMS](lmms.io): Open source music software similar to FL Studio. <br>
-[Spitfire LABS](labs.spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
-[Musescore](musescore.com): Open source scorewriter and online sheet music community. <br>
+- [LMMS](lmms.io): Open source music software similar to FL Studio. <br>
+- [Spitfire LABS](labs.spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
+- [Musescore](musescore.com): Open source scorewriter and online sheet music community. <br>
 ### _Midi Devices_ 
-[MIDIPLUS AKM320 Midi Keyboard](http://www.midiplus.com/html/akm320.html): Cheap midi keyboard with great funcionality. <br>
-[Novation Launchpad Mini](https://novationmusic.com/en/launch/launchpad-mini): Midi device that functions as a drum pad, keyboard, and many other things.
+- [MIDIPLUS AKM320 Midi Keyboard](http://www.midiplus.com/html/akm320.html): Cheap midi keyboard with great funcionality. <br>
+- [Novation Launchpad Mini](https://novationmusic.com/en/launch/launchpad-mini): Midi device that functions as a drum pad, keyboard, and many other things.
 
 <br>
 
