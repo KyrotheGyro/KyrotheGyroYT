@@ -8,7 +8,7 @@ KyrotheGyro is a channel where I post music of many different types, from lofi m
 
 <br>
 
-## Why did I decide to make a Youtube chttps://yt3.ggpht.com/a/AATXAJy-QQIWg9XBQe3ngh-c-bc5kqbJ2fS9ZCvC-Y3p=s176-c-k-c0x00ffffff-no-rj-mohannel?
+## Why did I decide to make a Youtube channel?
 
 I like making music and I wanted to share my creations with the internet.
 
