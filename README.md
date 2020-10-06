@@ -23,32 +23,3 @@ KyrotheGyro is a channel where I post music of many different types, from lofi m
 
 My name is Kyro (pronounced kee-roh) and I am currently a sophomore in high school. I play euphonium, trombone, and piano. I like all things music: listening to it, playing it, and making it. My favorite sports are water polo, basketball, and swimming. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)  
-```
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KyrotheGyro/kyrothegyroYT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
