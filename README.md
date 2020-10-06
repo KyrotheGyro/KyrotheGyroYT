@@ -4,9 +4,8 @@
 KyrotheGyro is a channel where I post music of many different types, from lofi music to full orchestral compositions. 
 
 [**My Channel**](https://www.youtube.com/channel/UCaYCVyiqWzOggBd5s6eRptQ)
-<br><img src="https://yt3.ggpht.com/a/AATXAJy-QQIWg9XBQe3ngh-c-bc5kqbJ2fS9ZCvC-Y3p=s176-c-k-c0x00ffffff-no-rj-mo" width="100" height = "100">
-<br>
-<img src="https://drive.google.com/file/d/1oDVb_rNlMEpPJPTwA5uCHE-fnMaqnysL/preview" width="100" height = "100">
+<br><img src="file:///C:/Users/Kyro/Pictures/Saved%20Pictures/Youtube%20Logo.png" width="100" height = "100">
+
 
 <br>
 
