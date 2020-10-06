@@ -12,15 +12,16 @@ KyrotheGyro is a YouTube channel where I post many different types of music, fro
 ### _Free/Open Source Programs_ <br>
 - [LMMS](lmms.io): Open source music software similar to FL Studio. <br>
 - [Spitfire LABS](labs.spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
-- [Musescore](musescore.com): Open source scorewriter and online sheet music community. <br>
+- [Musescore](musescore.com): Open source scorewriter and online sheet music community. <br> <br> [**My Musescore**](https://musescore.com/user/25733076?q=user/25733076)
+
 
 ### _Devices_ 
 - [MIDIPLUS AKM320 Midi Keyboard](http://www.midiplus.com/html/akm320.html): Cheap midi keyboard with great funcionality. <br>
-- [Novation Launchpad Mini](https://novationmusic.com/en/launch/launchpad-mini): Midi device that functions as a drum pad, keyboard, and many other things. [**(My Musescore)**](https://musescore.com/user/25733076?q=user/25733076)
-
+- [Novation Launchpad Mini](https://novationmusic.com/en/launch/launchpad-mini): Midi device that functions as a drum pad, keyboard, and many other things. 
 <br>
 
 ### About Me
 
 My name is Kyro (pronounced kee-roh) and I am currently a sophomore in high school. I play euphonium, trombone, and piano. I like all things music: listening to it, playing it, and making it. My favorite sports are water polo, basketball, and swimming. 
+
 
