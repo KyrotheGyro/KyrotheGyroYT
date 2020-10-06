@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1EkH8jQtnlIYEFZUuO39lwvfXOW-s3aEU" width="810" height="170"> <br>
+<img src="https://drive.google.com/uc?export=view&id=1EkH8jQtnlIYEFZUuO39lwvfXOW-s3aEU" width=100% height=25%> <br>
 # What is KyrotheGyro on Youtube?
 
 KyrotheGyro is a channel where I post music of many different types, from lofi music to full orchestral compositions. <br> <br>
