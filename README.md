@@ -12,7 +12,7 @@ KyrotheGyro is a YouTube channel where I post many different types of music, fro
 ### _Free/Open Source Programs_ <br>
 - [LMMS](lmms.io): Open source music software similar to FL Studio. <br>
 - [Spitfire LABS](labs.spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
-- [Musescore](musescore.com): Open source scorewriter and online sheet music community. <br> <br> [**My Musescore**](https://musescore.com/user/25733076?q=user/25733076)
+- [Musescore](musescore.com): Open source scorewriter and online sheet music community. <br> <br> [**My Musescore**](https://musescore.com/kyrothegyro)
 
 
 ### _Devices_ 
