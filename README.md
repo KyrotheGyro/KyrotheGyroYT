@@ -22,6 +22,6 @@ KyrotheGyro is a YouTube channel where I post many different types of music, fro
 
 ### About Me
 
-My name is Kyro (pronounced kee-roh) and I am currently a sophomore in high school. I play euphonium, trombone, and piano. I like all things music: listening to it, playing it, and making it. My favorite sports are water polo, basketball, and swimming. 
+My name is Kyro (pronounced kee-roh) and I am currently a sophomore in high school. I play euphonium, trombone, and piano. I like all things music: listening to it, playing it, and making it. I also enjoy playing sports. My favorite sports to play are water polo, basketball, and swimming. 
 
 
