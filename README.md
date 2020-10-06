@@ -16,7 +16,7 @@ KyrotheGyro is a YouTube channel where I post many different types of music, fro
 
 ### _Devices_ 
 - [MIDIPLUS AKM320 Midi Keyboard](http://www.midiplus.com/html/akm320.html): Cheap midi keyboard with great funcionality. <br>
-- [Novation Launchpad Mini](https://novationmusic.com/en/launch/launchpad-mini): Midi device that functions as a drum pad, keyboard, and many other things.
+- [Novation Launchpad Mini](https://novationmusic.com/en/launch/launchpad-mini): Midi device that functions as a drum pad, keyboard, and many other things. [**(My Musescore)**](https://musescore.com/user/25733076?q=user/25733076)
 
 <br>
 
