@@ -1,6 +1,8 @@
+![image](https://yt3.ggpht.com/a/AATXAJy-QQIWg9XBQe3ngh-c-bc5kqbJ2fS9ZCvC-Y3p=s176-c-k-c0x00ffffff-no-rj-mo)
+
 # What is KyrotheGyro on Youtube?
 
-KyrotheGyro is a channel where I post music of many different types, from lofi music to full orchestral compositions. ![image](https://yt3.ggpht.com/a/AATXAJy-QQIWg9XBQe3ngh-c-bc5kqbJ2fS9ZCvC-Y3p=s176-c-k-c0x00ffffff-no-rj-mo)
+KyrotheGyro is a channel where I post music of many different types, from lofi music to full orchestral compositions. 
 
 [**My Channel**](https://www.youtube.com/channel/UCaYCVyiqWzOggBd5s6eRptQ)
 
