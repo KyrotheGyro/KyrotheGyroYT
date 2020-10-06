@@ -3,7 +3,7 @@
 
 KyrotheGyro is a channel where I post music of many different types, from lofi music to full orchestral compositions. <br>
 [**My Channel**](https://www.youtube.com/channel/UCaYCVyiqWzOggBd5s6eRptQ) <br>
-<img src="https://drive.google.com/uc?export=view&id=1oDVb_rNlMEpPJPTwA5uCHE-fnMaqnysL" width="160" height="120">
+<img src="https://drive.google.com/uc?export=view&id=1oDVb_rNlMEpPJPTwA5uCHE-fnMaqnysL" width="80" height="60">
 <br>
 ## Why did I decide to make a Youtube channel?
 
