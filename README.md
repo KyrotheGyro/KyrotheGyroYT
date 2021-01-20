@@ -9,9 +9,9 @@ KyrotheGyro is a YouTube channel where I post many different types of music, fro
 
 ## Tools and Programs I Use
 
-### _Free/Open Source Programs_ <br>
-- [LMMS](lmms.io): Open source music software similar to FL Studio. <br>
-- [Spitfire LABS](labs.spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
+### _Music Creation/Notation Programs_ <br>
+- [FL Studio](image-line.com): Powerful DAW with many different functions and abilities. <br>
+- [Spitfire LABS and BBC Orchestra](spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
 - [Musescore](musescore.com): Open source scorewriter and online sheet music community. <br> <br> [**My Musescore**](https://musescore.com/kyrothegyro)
 
 
@@ -22,6 +22,6 @@ KyrotheGyro is a YouTube channel where I post many different types of music, fro
 
 ### About Me
 
-My name is Kyro (pronounced kee-roh) and I am currently a sophomore in high school. I play euphonium, trombone, and piano. I like all things music: listening to it, playing it, and making it. I also enjoy playing sports. My favorite sports to play are water polo, basketball, and swimming. 
+My name is Kyro (pronounced kee-roh) and I am currently a sophomore in high school. I play euphonium, trombone, and piano. I like all things music: listening to it, playing it, and making it. I also enjoy playing sports. My favorite sports are water polo, basketball, and swimming. 
 
 
