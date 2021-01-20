@@ -11,8 +11,8 @@ KyrotheGyro is a YouTube channel where I post many different types of music, fro
 
 ### _Music Creation/Notation Programs_ <br>
 - [FL Studio](https://image-line.com): Powerful DAW with many different functions and abilities. <br>
-- [Spitfire LABS and BBC Orchestra](htpps://spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
-- [Musescore](htpps://musescore.com): Open source scorewriter and online sheet music community. <br> <br> [**My Musescore**](https://musescore.com/kyrothegyro)
+- [Spitfire Labs and BBC Orchestra](https://spitfireaudio.com): Wide range of free virtual instrument samples recorded professionally. <br>
+- [Musescore](https://musescore.com): Open source scorewriter and online sheet music community. <br> <br> [**My Musescore**](https://musescore.com/kyrothegyro)
 
 
 ### _Devices_ 
